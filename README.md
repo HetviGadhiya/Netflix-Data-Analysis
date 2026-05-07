@@ -17,7 +17,9 @@ This project analyzes the Netflix Movies and TV Shows dataset to uncover trends,
 - Drama and International genres are popular
 
 ## Visualizations
-(Add your graph screenshots here)
+![Movies vs TV Shows](ss1.png)
+![Top Countries](ss2.png)
+![Content Growth](ss3.png)
 
 ## Dataset
 Netflix Movies and TV Shows dataset
